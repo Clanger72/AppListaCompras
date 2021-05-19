@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListaCompras</string>
+    <string name="adicionar_item">Adicionar Item</string>
+    <string name="button_arroz">Arroz</string>
+    <string name="label_second_activity">Lista de Compras</string>
+    <string name="button_feijao">Feijão</string>
+    <string name="button_oleo">Óleo</string>
+</resources>
